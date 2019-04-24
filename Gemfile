@@ -10,11 +10,11 @@ source "https://rubygems.org"
 
 
 group :development do
-	gem 'shotgun'
-	gem 'pry'
-	gem 'sqlite3'
-	gem 'tux'
-end
+    gem 'shotgun'
+    gem 'pry'
+    gem 'tux'
+    gem 'sqlite3'
+  end
 
 group :test do
   gem 'rspec'
